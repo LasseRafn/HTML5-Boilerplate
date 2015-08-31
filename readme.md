@@ -7,3 +7,6 @@ This project is intended for my own projects, but feel free to use if you wish.
 * scottjehl/Respond (1.4.2)
 * necolas/Normalize.css (3.0.3) - __Modified: removed hgroup.__
 
+## Todo:
+* Add CSS guides (XX--YY = Extended state, XX__YY = Sub element)
+* Add Gruntfile for compiling JS and SASS (Issue: Create versioning (X.X.X) on file: app.0.5.1.min.js)
