@@ -14,27 +14,42 @@ This project is intended for my own projects, but feel free to use if you wish.
 * Elements are written as such: 
 
     .block
+        /* styles */
+
     .site-header
+        /* styles */
 
 * Sub elements (A children of a element) are written as such:
 
     .block
+        /* styles */
+
         .block__header
+            /* styles */
 
 Or if you prefer not to use nesting:
 
     .block
+        /* styles */
+
     .block__header
+        /* styles */
 
 * Element modifiers are written as such:
 
     .block
+        /* styles */
+
         &.block--large
+            /* styles */
 
 or if you prefer not to use nesting:
 
     .block
+        /* styles */
+
     .block--large
+        /* styles */
 
 * Global styles (example: .input-field) should NOT use BEM
 * Nesting should be used appropriately, to ensure dynamic code.
