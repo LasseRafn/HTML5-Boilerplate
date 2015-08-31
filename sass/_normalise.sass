@@ -142,6 +142,12 @@ table
 	border-collapse: collapse
 	border-spacing: 0
 
+@if $fix_lists == 1
+	ul, ol
+		list-style: none
+		margin: 0
+		padding: 0
+
 *
 	@if $is_responsive == 1
 		max-width: 100%
