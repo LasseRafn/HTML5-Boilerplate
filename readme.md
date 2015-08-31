@@ -12,33 +12,24 @@ This project is intended for my own projects, but feel free to use if you wish.
 
 ## Bem Instructions
 * Elements are written as such: 
-´´´´
-.block
-.site-header
-´´´´
+    .block
+    .site-header
 
 * Sub elements (A children of a element) are written as such:
-´´´´
-.block
-	.block__header
-´´´´
-Or if you prefer not to use nesting:
-´´´´
-.block
+    .block
+        .block__header
 
-.block__header
-´´´´
+Or if you prefer not to use nesting:
+    .block
+    .block__header
 
 * Element modifiers are written as such:
-´´´´
-.block
-	&.block--large
-´´´´
-or if you prefer not to use nesting:
-´´´´
-.block
+    .block
+        &.block--large
 
-.block--large
-´´´´
+or if you prefer not to use nesting:
+    .block
+    .block--large
+
 * Global styles (example: .input-field) should NOT use BEM
 * Nesting should be used appropriately, to ensure dynamic code.
