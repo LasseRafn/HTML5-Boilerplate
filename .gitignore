@@ -1,0 +1,5 @@
+.idea
+css/*
+images/*
+js/*.min.*
+js/vendor/*.min.*

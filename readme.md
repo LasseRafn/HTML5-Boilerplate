@@ -5,7 +5,11 @@ This project is intended for my own projects, but feel free to use if you wish.
 * jquery/jquery (2.1.4)
 * aFarkas/HTML5Shiv (3.7.3)
 * scottjehl/Respond (1.4.2)
+* jamesallardice/Placeholders.js (4.0.1)
 * necolas/Normalize.css (3.0.3) - ___Modified: removed hgroup.___
+
+## Changes:
+* 6 Oct. 2015: Added Placeholders.js and cleaned directories and such.
 
 ## Todo:
 * Add Gruntfile for compiling JS and SASS (Issue: Create versioning (X.X.X) on file: app.0.5.1.min.js)
