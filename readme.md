@@ -10,6 +10,7 @@ This project is intended for my own projects, but feel free to use if you wish.
 
 ## Changes:
 * 6 Oct. 2015: Added Placeholders.js and cleaned directories and such.
+* 18 Nov. 2015: Added Safari "Mask Icon" (for pinned tabs)
 
 ## Todo:
 * Add Gruntfile for compiling JS and SASS (Issue: Create versioning (X.X.X) on file: app.0.5.1.min.js)
