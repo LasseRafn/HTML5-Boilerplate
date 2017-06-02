@@ -1,5 +1,12 @@
-#HTML5 Boilerplate
+# HTML5 Boilerplate
+
 This project is intended for my own projects, but feel free to use if you wish.
+
+-----
+
+**Please note that this is no longer actively maintained.**
+
+-----
 
 ## Vendors:
 * jquery/jquery (2.1.4)
